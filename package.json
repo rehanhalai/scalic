@@ -1,0 +1,20 @@
+{
+  "name": "scalic",
+  "version": "1.0.0",
+  "description": "Distributed System Designer",
+  "homepage": "https://github.com/rehanhalai/scalic#readme",
+  "bugs": {
+    "url": "https://github.com/rehanhalai/scalic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rehanhalai/scalic.git"
+  },
+  "license": "MIT",
+  "author": "Rehan Halai",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
