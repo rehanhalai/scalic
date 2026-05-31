@@ -31,7 +31,7 @@ export default function App() {
               <h3 className="font-semibold">Custom Software Development</h3>
               <p className="mt-2 text-sm text-gray-700">
                 Build secure web applications and business platforms with
-                Scalic&apos;s experienced engineering team.
+                Scalic's experienced engineering team.
               </p>
             </li>
             <li className="rounded-lg border border-gray-200 p-4">
